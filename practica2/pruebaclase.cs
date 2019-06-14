@@ -7,6 +7,6 @@ namespace practica2
 {
     public class pruebaclase
     {
-        //hello people
+        //hello 
     }
 }
