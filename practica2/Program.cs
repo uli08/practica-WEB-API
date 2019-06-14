@@ -16,6 +16,7 @@ namespace practica2
         {
             CreateWebHostBuilder(args).Build().Run();
             //hello people
+
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
